@@ -1,4 +1,3 @@
-<html><body>
 <?php
 
 	error_reporting(E_ALL);
@@ -79,4 +78,3 @@
 	echo json_encode(array('rank'=>$rownum, 'classes'=>$classes, 'dist'=>$dist));
 
 ?>
-</body></html>
